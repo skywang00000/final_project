@@ -48,7 +48,7 @@ Create a gradio window --> Create some initial things --> Input or generate a so
 I also relied on AI to help me complete this project. Since Gradio was a language I was new to, there were many libraries I didn't know. However, the binary search code was entirely handwritten by me.
 
 # Hugging Face Link:
-
+https://huggingface.co/spaces/SKY5815/Final_project
 
 # Acknowledgment:
 Instructor：
