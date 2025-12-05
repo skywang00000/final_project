@@ -47,6 +47,9 @@ Create a gradio window --> Create some initial things --> Input or generate a so
 ## AI Declainer: 
 I also relied on AI to help me complete this project. Since Gradio was a language I was new to, there were many libraries I didn't know. However, the binary search code was entirely handwritten by me.
 
+# Hugging Face Link:
+
+
 # Acknowledgment:
 Instructor：
 Thanks to Mr. Ruslan, the instructor of CISC-121, and the teaching assistants for providing detailed project guidelines and grading criteria.
