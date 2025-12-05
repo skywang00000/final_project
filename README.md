@@ -1,5 +1,5 @@
-# final_project
-using gradio to show how binary search does
+# Final_Project
+Using Gradio to show how binary search works
 
 ## Author Information:
 
