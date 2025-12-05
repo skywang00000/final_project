@@ -1,5 +1,4 @@
-# Final_Project
-Using Gradio to show how binary search works.
+# Final_Project Using Gradio to show how binary search works.
 I chose Gradio for this project because the interface created with this language is cleaner and simpler. I initially considered using Pygame, but setting up the desktop environment with Pygame was more cumbersome than with Gradio, so I abandoned that approach and chose Gradio instead. Furthermore, the binary search operation logic is very ingenious. This is also the search method that impressed me the most this semester. I believe that this binary search is also very concise and simple to implement in code.
 
 ## Author Information:
