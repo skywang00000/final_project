@@ -6,6 +6,13 @@ I chose Gradio for this project because the interface created with this language
 
 <img width="1714" height="769" alt="image" src="https://github.com/user-attachments/assets/20eb87c6-bbed-47af-839d-bc992a4742f4" />
 
+# Operating steps：
+1. Copy the code from APP.py.
+2. Install the requirement in the terminal. Copy the entire thing under here.
+   pip install gradio
+3. Run this code.
+4. Click the link that is in the terminal, and it will jump to a website.
+
 ## Demonstration Instructions:
 1. The left input box allows you to enter a sorted array (e.g., 1, 3, 5, 7, 9, 11).
 
