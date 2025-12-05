@@ -38,3 +38,8 @@ Thanks to Mr. Ruslan, the instructor of CISC-121, and the teaching assistants fo
 Resource：
 Thanks to the official Grado documentation and the technical resources for the Hugging Face Spaces user guide. And thanks to the developers of all the open-source tools and libraries.
 
+# Project characteristics：
+1. Clear step-by-step demonstration
+2. The random data generation function facilitates testing.
+3. Detailed annotations
+
