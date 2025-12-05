@@ -8,8 +8,7 @@ I chose Gradio for this project because the interface created with this language
 
 # Operating steps：
 1. Copy the code from APP.py.
-2. Install the requirement in the terminal. Copy the entire thing under here.
-pip install gradio
+2. Install the requirement in the terminal. Copy the entire thing from 'requirement.txt'.
 3. Run this code.
 4. Click the link that is in the terminal, and it will jump to a website.
 
