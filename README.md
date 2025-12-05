@@ -1,6 +1,16 @@
 # final_project
 using gradio to show how binary search does
 
+## Author Information:
+
+Name: Zitian_Wang
+
+Student ID: 20404102
+
+Course: CISC-121-002
+
+Queen's University
+
 # Binary search
 I chose Gradio for this project because the interface created with this language is cleaner and simpler. I initially considered using Pygame, but setting up the desktop environment with Pygame was more cumbersome than with Gradio, so I abandoned that approach and chose Gradio instead.
 
@@ -36,16 +46,6 @@ Create a gradio window --> Create some initial things --> Input or generate a so
 
 ## AI Declainer: 
 I also relied on AI to help me complete this project. Since Gradio was a language I was new to, there were many libraries I didn't know. However, the binary search code was entirely handwritten by me.
-
-## Author Information:
-
-Name: Zitian_Wang
-
-Student ID: 20404102
-
-Course: CISC-121-002
-
-Queen's University
 
 # Acknowledgment:
 Instructor：
