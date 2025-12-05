@@ -5,6 +5,7 @@ using gradio to show how binary search does
 I chose Gradio for this project because the interface created with this language is cleaner and simpler. I initially considered using Pygame, but setting up the desktop environment with Pygame was more cumbersome than with Gradio, so I abandoned that approach and chose Gradio instead.
 
 <img width="1714" height="769" alt="image" src="https://github.com/user-attachments/assets/20eb87c6-bbed-47af-839d-bc992a4742f4" />
+
 ## Demonstration Instructions:
 1. The left input box allows you to enter a sorted array (e.g., 1, 3, 5, 7, 9, 11).
 
