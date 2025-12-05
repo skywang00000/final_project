@@ -23,7 +23,7 @@ Queen's University
 
 # Acknowledgment:
 Instructor：
-Thanks to Mr. Ruslan, the instructor of CISC-121, for providing detailed project guidelines and grading criteria.
+Thanks to Mr. Ruslan, the instructor of CISC-121, and the teaching assistants for providing detailed project guidelines and grading criteria.
 
 Resource：
 Thanks to the official Grado documentation and the technical resources for the Hugging Face Spaces user guide. And thanks to the developers of all the open-source tools and libraries.
